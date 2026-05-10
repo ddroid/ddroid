@@ -1,5 +1,4 @@
 <h2> Hi there, I'm Muhammad Ahmad <img src="./Assets/7.gif" width="50"></h2>
-<img align='right' src="./Assets/3.gif" width="420">
 <p><em>
   Software Enginner at <a href="https://playproject.io/">PlayProject</a>
     <img src="./Assets/9.gif" width="30">
@@ -11,8 +10,8 @@
     <img src="./Assets/8.gif" width="30">
 </em></p>
 
+<img align='right' src="./Assets/3.gif" width="240">
 [![GitHub ddroid](https://img.shields.io/github/followers/ddroid?label=follow&style=social)](https://github.com/ddroid)
-
 
 ### A little more about me...<img src="./Assets/1.gif" width="60">
 
