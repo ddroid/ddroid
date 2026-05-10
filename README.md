@@ -12,7 +12,7 @@
 
 [![GitHub ddroid](https://img.shields.io/github/followers/ddroid?label=follow&style=social)](https://github.com/ddroid)
 
-<img align='right' src="./Assets/3.gif" width="240">
+<img align='right' src="./Assets/3.gif" width="320">
 
 ### A little more about me...<img src="./Assets/1.gif" width="60">
 
