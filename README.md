@@ -20,10 +20,9 @@
 const ahmad = {
   pronouns: "he" | "him",
   code: [Typescript, Rust, C, Elixir, Javascript, Go],
-  tools: [React, Redux, Node/Bun, GTK/Rust, Clarinet, Jest, Docker],
-  system: [Linux, CachyOS, GNOME, Wayland, Vicinae]
-  architecture: ["Systems Thinking", "microservices", "event-driven", "P2P", "Agentic"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on C and Rust",
+  tools: [React, Redux, Node/Bun, GTK/Rust, Docker],
+  system: [Linux, CachyOS, GNOME, Wayland, Vicinae],
+  challenge: "I am doing the #100DaysOfCode on C"
 }
 ```
 
