@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Muhammad Ahmad <img src="./Assets/7.gif" width="50"></h2>
+<h2> Hi there, I'm Ahmad <img src="./Assets/7.gif" width="50"></h2>
 <p><em>
   Software Enginner at <a href="https://playproject.io/">PlayProject</a>
     <img src="./Assets/9.gif" width="30">
