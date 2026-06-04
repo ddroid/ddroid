@@ -10,6 +10,8 @@
     <img src="./Assets/8.gif" width="30">
 </em></p>
 
+![GitHub followers](https://img.shields.io/github/followers/ddroid)
+
 <img align='right' src="./Assets/3.gif" width="320">
 
 ### A little more about me...<img src="./Assets/1.gif" width="60">
