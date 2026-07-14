@@ -28,6 +28,9 @@ const ahmad = {
 
 <img src="./Assets/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
 
+<details>
+
+<summary>Expand ASCII Art</summary>
 
 ```
       ,---,      ,---,                     ,--,         ,---, 
@@ -43,3 +46,4 @@ const ahmad = {
  \   \  /   \   \  /                     |  ,   /  \   \  /   
   `----'     `----'                       ---`-'    `----'    
 ```
+</details>
