@@ -27,12 +27,8 @@ const ahmad = {
 ```
 
 <img src="./Assets/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
-<details>
-
-<summary>Social Links</summary>
 
 [Website](http://ddroid.dev/), [Reddit](https://www.reddit.com/user/Ahmad-Munir), [Discord](https://discord.com/users/1085441777886040064), [LinkedIn](https://www.linkedin.com/in/ddroid/), [Twitter](https://x.com/ddroid_dev), [Mastodon](https://fosstodon.org/@ddroid), [Bluesky](https://bsky.app/profile/devdroid.bsky.social)
-</details>
 <details>
 
 <summary>ASCII Art</summary>
