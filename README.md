@@ -3,7 +3,7 @@
   Software Enginner at <a href="https://playproject.io/">PlayProject</a>
     <img src="./Assets/9.gif" width="30">
   </br>
-  Blockchain Developer at <a href="https://gowhite.xyz/">White</a>
+  Ex Blockchain Developer at <a href="https://gowhite.xyz/">White</a>
     <img src="./Assets/11.gif" width="30">
   </br>
   Doing Bachelor of Computer Science at <a href="https://uog.edu.pk/">University of Gujrat</a>
